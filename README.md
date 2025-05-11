@@ -1,3 +1,3 @@
-# Tyler and Carissa's Wedding Website
+# Carissa and Tyler's Wedding Website
 
 [tyandriss.com](https://www.tyandriss.com/)

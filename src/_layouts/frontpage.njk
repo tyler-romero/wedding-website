@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% include "head.njk" %}
+    </head>
+    <header>
+        <nav class="topbar">
+            <div class="right-aligned-links">
+                <a href="/"
+                   class="no-tufte-underline"
+                   style="color: #246eb9;
+                          margin-right: 3%">Carissa and Tyler</a>
+                <a href="/#rsvp" class="no-tufte-underline">rsvp</a>
+            </nav>
+        </header>
+        <body>
+            <article>
+                {# NOTE: no title in this layout#}
+                {{ content | safe }}
+            </article>
+            <footer>
+                {% include "footer.njk" %}
+            </footer>
+        </body>
+    </html>

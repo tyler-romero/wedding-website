@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# This website is not to be crawled by search engines

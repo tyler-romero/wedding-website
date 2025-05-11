@@ -1,0 +1,12 @@
+# artifacts
+_site/
+.cache/
+
+# macos
+.DS_Store
+
+# node
+node_modules/
+
+# vscode
+.vscode/

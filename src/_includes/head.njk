@@ -4,17 +4,13 @@
 <meta charset="utf-8" />
 <meta name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
 <title>{{ metaTitle | markdownInline | striptags }}</title>
-
 <meta name="author" content="{{ site.authorName }}" />
 <meta name="description"
       content="{{ metaDescription | markdownInline | striptags }}" />
-
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="{{ site.favicon }}" type="image/ico" />
 <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-
 <link rel="preload"
       as="font"
       type="font/woff2"
@@ -25,11 +21,8 @@
       type="font/woff2"
       crossorigin
       href="/assets/frenchaperitif/frenchaperitif-italic.woff2" />
-
 {% if attachments %}{{ attachments | linkToHead | safe }}{% endif %}
 {% if libraries %}{{ libraries | linkToHead | safe }}{% endif %}
-
-
 <!-- Stylesheets -->
 <link rel="stylesheet" href="/assets/tufte.min.css" />
 <link rel="stylesheet"

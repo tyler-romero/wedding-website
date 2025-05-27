@@ -57,16 +57,13 @@ export default function (eleventyConfig) {
   // Image Shortcode And Optimizations
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     extensions: "html",
-    formats: ["webp", "auto"], // "auto" means use the original format
-    sharpOptions: {
-      animated: true, // Enable animated GIF and WebP support
-    },
+    formats: ["avif", "webp", "jpg"], // "auto" means use the original format
     widths: [300, 600, 900, "auto"], // mobile, tablet, desktop viewport widths, and original size
     defaultAttributes: {
       loading: "lazy",
       decoding: "async",
-      sizes: "(max-width: 900px) 100vw, 900px",
-      class: "responsive-image",
+      // sizes: "(max-width: 900px) 100vw, 900px",
+      // class: "responsive-image",
     },
     urlPath: "/assets/img/",
     outputDir: "_site/assets/img/",

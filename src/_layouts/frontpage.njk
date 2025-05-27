@@ -6,20 +6,21 @@
     <header>
         <nav class="topbar">
             <div class="right-aligned-links">
-                <a href="/"
-                   class="no-tufte-underline"
-                   style="color: #246eb9;
-                          margin-right: 3%">Carissa and Tyler</a>
-                <a href="/#rsvp" class="no-tufte-underline">rsvp</a>
-            </nav>
-        </header>
-        <body>
-            <article>
-                {# NOTE: no title in this layout#}
-                {{ content | safe }}
-            </article>
-            <footer>
-                {% include "footer.njk" %}
-            </footer>
-        </body>
-    </html>
+            <a href="/" class="no-tufte-underline">Carissa and Tyler</a>
+            <a href="/#rsvp" class="no-tufte-underline">RSVP</a>
+            <a href="/#travel" class="no-tufte-underline">Travel</a>
+            <a href="/#schedule" class="no-tufte-underline">Schedule</a>
+            <a href="/#maui" class="no-tufte-underline">Maui Recs</a>
+            <a href="/#registry" class="no-tufte-underline">Registry</a>
+        </nav>
+    </header>
+    <body>
+        <article>
+            {# NOTE: no title in this layout#}
+            {{ content | safe }}
+        </article>
+        <footer>
+            {% include "footer.njk" %}
+        </footer>
+    </body>
+</html>

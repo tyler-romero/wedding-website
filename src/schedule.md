@@ -3,4 +3,4 @@ layout: posts.njk
 title: Schedule
 ---
 
-TODO: Add wedding schedule details here.
+Coming soon! Please check back later!

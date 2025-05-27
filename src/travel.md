@@ -3,4 +3,4 @@ layout: posts.njk
 title: Travel
 ---
 
-TODO: Add travel and accommodation suggestions here.
+Coming soon! Please check back later!

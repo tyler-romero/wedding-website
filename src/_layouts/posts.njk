@@ -8,32 +8,21 @@
             "@type": "BlogPosting",
             "headline": "{{ title }}",
             "description": "{{ subtitle or site.subtitle }}",
-            "author": {
-                "@type": "Person",
-                "name": "{{ site.authorName }}",
-                "url": "{{ site.url }}"
-            },
             "datePublished": "{{ page.date.toISOString() }}",
             "dateModified": "{{ page.inputPath | lastModifiedDate }}",
             "url": "{{ site.url }}{{ page.url }}",
-            "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "{{ site.url }}{{ page.url }}"
-            },
-            "image": "{{ site.url }}{{ featured_image }}",
-            "keywords": "{{ tags | join(', ') }}",
-            "wordCount": "{{ content | wordCount }}",
-            "articleBody": "{{ content | replace('<p>', '') | replace('</p>', ' ') | striptags | truncate(500) | escape }}"
             }
         </script>
     </head>
     <header>
         <nav class="topbar">
             <div class="right-aligned-links">
-                <a href="/"
-                   class="no-tufte-underline"
-                   style="color: #246eb9;
-                          margin-right: 3%">Carissa and Tyler</a>
+            <a href="/" class="no-tufte-underline">Carissa and Tyler</a>
+            <a href="/rsvp/" class="no-tufte-underline">RSVP</a>
+            <a href="/travel/" class="no-tufte-underline">Travel</a>
+            <a href="/schedule/" class="no-tufte-underline">Schedule</a>
+            <a href="/maui-recs/" class="no-tufte-underline">Maui Recs</a>
+            <a href="/registry/" class="no-tufte-underline">Registry</a>
             </div>
         </nav>
     </header>

@@ -1,73 +1,54 @@
 @charset "UTF-8";
 
-/* Import ET Book styles
-   adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
 
 @font-face {
-  font-family: "et-book";
-  src: url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
+  font-family: "frenchaperitif";
   src:
-    url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix")
-      format("embedded-opentype"),
-    url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff")
-      format("woff"),
-    url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf")
-      format("truetype"),
-    url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf")
-      format("svg");
+    url("frenchaperitif/frenchaperitif-regular.woff2") format("woff2"),
+    url("frenchaperitif/frenchaperitif-regular.woff") format("woff"),
+    url("frenchaperitif/frenchaperitif-regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "et-book";
-  src: url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot");
+  font-family: "frenchaperitif-outline";
   src:
-    url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot?#iefix")
-      format("embedded-opentype"),
-    url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff")
-      format("woff"),
-    url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf")
-      format("truetype"),
-    url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg#etbookromanosf")
-      format("svg");
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "et-book";
-  src: url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot");
-  src:
-    url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix")
-      format("embedded-opentype"),
-    url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff")
-      format("woff"),
-    url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.ttf")
-      format("truetype"),
-    url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg#etbookromanosf")
-      format("svg");
+    url("frenchaperitif/frenchaperitif-outlinebold-webfont.woff2") format("woff2"),
+    url("frenchaperitif/frenchaperitif-outlinebold-webfont.woff") format("woff"),
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "et-book-roman-old-style";
-  src: url("et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot");
+  font-family: "frenchaperitif-outline";
   src:
-    url("et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot?#iefix")
-      format("embedded-opentype"),
-    url("et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.woff")
-      format("woff"),
-    url("et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.ttf")
-      format("truetype"),
-    url("et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.svg#etbookromanosf")
-      format("svg");
+    url("frenchaperitif/frenchaperitif-outlinethin-webfont.woff2") format("woff2"),
+    url("frenchaperitif/frenchaperitif-outlinethin-webfont.woff") format("woff"),
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
+}
+
+/* @font-face {
+  font-family: "frenchaperitif-outline";
+  src:
+    url("frenchaperitif/frenchaperitif-outlineregular.woff2") format("woff2"),
+    url("frenchaperitif/frenchaperitif-outlineregular.woff") format("woff"),
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+} */
+
+@font-face {
+  font-family: "frenchaperitif";
+  src:
+    url("frenchaperitif/frenchaperitif-script-webfont.woff2") format("woff2"),
+    url("frenchaperitif/frenchaperitif-script-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
   font-display: swap;
 }
 
@@ -106,8 +87,8 @@ body {
   margin-right: auto;
   /* padding-left: 8%; Handled by individual sections now */
   font-family:
-    et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua",
-    Georgia, serif;
+    frenchaperitif, Palatino, "Palatino Linotype", "Palatino LT STD",
+    "Book Antiqua", Georgia, serif;
   background-color: #fffff0; /* #fcfcf5; */
   color: #111;
   max-width: 1400px;
@@ -170,7 +151,7 @@ p.subtitle {
 }
 
 .numeral {
-  font-family: et-book-roman-old-style;
+  font-family: frenchaperitif;
 }
 
 .danger {
@@ -414,7 +395,7 @@ video {
 
 .sidenote-number:after,
 .sidenote:before {
-  font-family: et-book-roman-old-style;
+  font-family: frenchaperitif;
   position: relative;
   vertical-align: baseline;
 }
@@ -623,10 +604,10 @@ nav a:link,
 nav a:visited {
   /* top block */
   font-size: 1.4rem;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
+  letter-spacing: 0.0em;
+  /* text-transform: uppercase; */
   color: #568259;
-  padding-top: 2rem;
+  padding-top: 1rem;
   display: inline-block;
   margin-top: 0;
   margin-bottom: 0;
@@ -639,8 +620,8 @@ nav a:visited {
 
 .hero-banner {
   background-image: url("/assets/img/pasture.png");
-  background-size: cover;
-  background-position: center;
+  background-size: 100%;
+  background-position: center; /* 100% 53%; */ /* x, y */
   height: 100vh; /* Full viewport height */
   display: flex;
   align-items: center;
@@ -654,11 +635,25 @@ nav a:visited {
 }
 
 .hero-banner h1 {
-  color: #ffffff; /* White text */
-  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7); /* Shadow for readability */
-  font-size: 3.5rem; /* Larger font size for hero */
+  color: #fffff0;
+  font-size: 3rem; /* Larger font size for hero */
+  font-family: frenchaperitif-outline;
   margin-top: 0; /* Remove default h1 margin */
   margin-bottom: 0; /* Remove default h1 margin */
+  /* font-style: italic; */
+  font-weight: normal;
+}
+
+.topbar {
+  font-family: frenchaperitif;
+  font-style: italic;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  height: 0px; /* or set a specific height, e.g., 40px */
+}
+header {
+    padding: 0;
+    margin: 0;
 }
 
 /* Adjust body padding for full-width hero */
@@ -668,8 +663,8 @@ body {
   margin-right: auto;
   /* padding-left: 8%; Removed for full-width hero, handled by sections */
   font-family:
-    et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua",
-    Georgia, serif;
+    frenchaperitif, Palatino, "Palatino Linotype", "Palatino LT STD",
+    "Book Antiqua", Georgia, serif;
   background-color: #fffff0; /* #fcfcf5; */
   color: #111;
   max-width: 1400px;

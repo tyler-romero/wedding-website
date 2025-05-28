@@ -1,4 +1,4 @@
-# Carissa and Tyler's Wedding Website
+# Carissa & Tyler's Wedding Website
 
 rissandty.com
 

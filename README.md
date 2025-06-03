@@ -8,8 +8,4 @@ rissandty.com
 - [ ] Add RSVP form
 - [x] Fix main image / text centering
 - [x] Fix favicon
-- [ ] Fix formatting
-
-
-May 2nd , 2026
-Kula, Maui, HI
+- [x] Fix formatting

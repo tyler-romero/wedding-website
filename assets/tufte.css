@@ -680,6 +680,8 @@ nav a:visited {
   padding-top: 0px;
   padding-bottom: 0px;
   height: 0px; /* or set a specific height, e.g., 40px */
+  padding-left: 4%; /* Add left padding to prevent text from touching left edge */
+  padding-right: 4%; /* Add corresponding right padding for balance */
 }
 header {
   padding: 0;
@@ -741,5 +743,18 @@ section:not(.hero-banner) {
     padding-right: 8%; /* Tufte's mobile padding */
     margin-left: auto;
     margin-right: auto;
+  }
+
+  /* Navigation adjustments for mobile */
+  .topbar {
+    padding-left: 5%; /* Slightly reduce padding for mobile but maintain spacing */
+    padding-right: 5%;
+  }
+
+  nav a,
+  nav a:link,
+  nav a:visited {
+    font-size: 1.2rem; /* Slightly smaller font on mobile */
+    padding-right: 1.5rem; /* Reduce right padding between links on mobile */
   }
 }

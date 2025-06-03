@@ -6,6 +6,10 @@ rissandty.com
 - [x] Make font brown
 - [ ] Improve wording
 - [ ] Add RSVP form
-- [ ] Fix main image / text centering
+- [x] Fix main image / text centering
 - [x] Fix favicon
 - [ ] Fix formatting
+
+
+May 2nd , 2026
+Kula, Maui, HI

@@ -3,4 +3,4 @@ layout: posts.njk
 title: Maui Recs
 ---
 
-Coming soon! Please check back later!
+Coming soon, please check back later!

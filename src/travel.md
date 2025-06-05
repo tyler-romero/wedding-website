@@ -3,4 +3,4 @@ layout: posts.njk
 title: Travel
 ---
 
-Coming soon! Please check back later!
+Coming soon, please check back later!

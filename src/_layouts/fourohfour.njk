@@ -2,18 +2,23 @@
 <html lang="en">
     <head>{% include "head.njk" %}</head>
     <header>
-        <nav class="topbar">
-            <div class="right-aligned-links">
-                <a href="/"
-                   class="no-tufte-underline"
-                   style="color: #246eb9;
-                          margin-right: 3%">Carissa & Tyler</a>
+        <section>
+            <nav class="topbar">
+                <div class="right-aligned-links">
+                    <a href="/"
+                       class="no-tufte-underline"
+                       style="color: #246eb9;
+                              margin-right: 3%">Carissa & Tyler</a>
+                </div>
             </nav>
-        </header>
-        <body>
-            <article>
+        </section>
+    </header>
+    <body>
+        <article>
+            <section>
                 {# NOTE: no title in this layout#}
                 {{ content | safe }}
-            </article>
-        </body>
-    </html>
+            </section>
+        </article>
+    </body>
+</html>

@@ -3,8 +3,8 @@ layout: posts.njk
 title: Schedule
 ---
 
-## Friday, May 1st: Welcome drinks!
-We will be at Maui Brewing Co. in Kihei around 5-8pm on Friday if you'd like to swing by and join us for beers and pupus after getting settled in or hitting the beach!
+## Friday, May 1st: Welcome drinks at Maui Brewing!
+We will be at [Maui Brewing Co.](https://g.co/kgs/sXnVaXT) in Kihei around 5-8pm on Friday if you'd like to swing by and join us for beers and pupus after getting settled in or hitting the beach!
 
 Address: 605 Lipoa Pkwy, Kihei, HI 96753
 

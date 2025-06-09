@@ -27,7 +27,7 @@ Parking: Limited street parking in Kula Kai neighborhood- see Travel section for
 
 4:30-5:30pm: Cocktail hour
 
-5:30-7:00pm-ish: Dinner
+5:30-7:00pm: Dinner
 
 7:00-10:00pm: \~Dancing\~
 

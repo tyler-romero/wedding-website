@@ -98,7 +98,6 @@ body {
   counter-reset: sidenote-counter;
 }
 
-
 h1 {
   font-weight: 400;
   margin-top: 1rem;
@@ -737,7 +736,6 @@ section:not(.hero-banner) {
 
 /* Mobile responsive styles */
 @media (max-width: 760px) {
-
   .hero-banner {
     height: 40vh;
   }
@@ -749,6 +747,8 @@ section:not(.hero-banner) {
   .topbar {
     padding-left: 5%;
     padding-right: 5%;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   nav a,

@@ -4,7 +4,7 @@ title: Maui Recs
 ---
 <p>
     <span class="marginnote">
-        <img src="/assets/img/families.jpg" alt="Families" style="height: 200px; width: auto" />
+        <img src="/assets/img/thompson-ranch-road.jpg" alt="Thompson Ranch" style="height: 250px; width: auto; object-fit: contain;" />
     </span>
     The island has a lot to offer- you really can't go wrong. Here are some favorite spots!
 </p>
@@ -16,7 +16,7 @@ title: Maui Recs
 
 <div style="display: flex; margin: 2rem 0;">
     <img src="/assets/img/waterfall-ridge.jpg" alt="Waterfall" style="width: 60%; height: auto;" />
-    <img src="/assets/img/thompson-ranch-road.jpg" alt="Thompson Ranch" style="width: 100%; height: auto;" />
+    <img src="/assets/img/families.jpg" alt="Families" style="width: 70%; height: auto;" />
 </div>
 
 <div style="display: flex; margin: 2rem 0;">

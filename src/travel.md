@@ -7,9 +7,9 @@ title: Travel
 
 We don’t plan on booking a hotel block - feel free to book accommodations that suit your needs! The wedding will be upcountry in Kula, which is lovely but farther from the beach where most of you will likely want to stay, especially if you’re visiting the island for the first time!
 
-We will have shuttles that will provide transportation from Kihei/Wailea (the south side of the island) to the wedding on 5/2.
+We will have [day-of shuttles](#day-of-shuttle) that will provide transportation from Kihei/Wailea (the south side of the island) to the wedding on 5/2 (more information to follow).
 
- Here are some recommendations!
+Here are some hotel recommendations!
 
 ### Wailea
 
@@ -37,6 +37,8 @@ Where the Ratte house is located. It’s more rural, has gorgeous views, and coo
 ### Rental Cars
 
 We recommend renting a car if you plan on exploring Maui beyond the immediate area of your accommodation.
+* [Enterprise at Kahului Airport (OGG)](https://www.enterprise.com/en/car-rental-locations/us/hi/kahului-airport-36e4.html)
+* [Turo on Maui (person-to-person car rentals)](https://turo.com/us/en/car-rental/united-states/kahului-hi)
 
 ### Day-of Shuttle
 Please check back later for more information on a day-of shuttle from Kihei/Wailea to the Ratte house and back.

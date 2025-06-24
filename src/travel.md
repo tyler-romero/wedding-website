@@ -15,30 +15,32 @@ Here are some hotel recommendations!
 
 More upscale, beautiful beaches.
 
-* [The Fairmont Kea Lani](https://www.fairmont.com/en/hotels/hawaii-maui/fairmont-kea-lani.html) - great for groups of friends because all of their rooms are suites!
-* [The Grand Wailea](https://www.grandwailea.com/) - a classic! Great pools.
-* [The Residence Inn Maui Wailea](https://www.marriott.com/en-us/hotels/hnmri-residence-inn-maui-wailea/overview/) - we’ve heard it’s good for families because every room has a little kitchen!
+* <a href="https://www.fairmont.com/en/hotels/hawaii-maui/fairmont-kea-lani.html" target="_blank">The Fairmont Kea Lani</a> - great for groups of friends because all of their rooms are suites!
+* <a href="https://www.grandwailea.com/" target="_blank">The Grand Wailea</a> - a classic! Great pools.
+* <a href="https://www.marriott.com/en-us/hotels/hnmri-residence-inn-maui-wailea/overview/" target="_blank">The Residence Inn Maui Wailea</a> - we’ve heard it’s good for families because every room has a little kitchen!
 
 ### Kihei
 
 More affordable (but still super nice), a bit more central, beautiful beaches.
 
-* [Maui Coast Hotel](https://www.mauicoasthotel.com/)
+* <a href="https://www.mauicoasthotel.com/" target="_blank">Maui Coast Hotel</a>
 * Renting condos in Kihei can be a great/slightly more affordable option as well, especially for groups.
 
 ### Kula
 
 Where the Ratte house is located. It’s more rural, has gorgeous views, and cooler temperatures. Lodging is much more limited but there are a few places!
 
-* [Kula Lodge](https://kulalodge.com/)
-* [Kula Sandalwoods Cafe & Inn](https://kulasandalwoods.com/)
+* <a href="https://kulalodge.com/" target="_blank">Kula Lodge</a>
+* <a href="https://kulasandalwoods.com/" target="_blank">Kula Sandalwoods Cafe & Inn</a>
 
 ## Transportation
 ### Rental Cars
 
 We recommend renting a car if you plan on exploring Maui beyond the immediate area of your accommodation.
-* [Enterprise at Kahului Airport (OGG)](https://www.enterprise.com/en/car-rental-locations/us/hi/kahului-airport-36e4.html)
-* [Turo on Maui (person-to-person car rentals)](https://turo.com/us/en/car-rental/united-states/kahului-hi)
+* <a href="https://www.enterprise.com/en/car-rental-locations/us/hi/kahului-airport-36e4.html" target="_blank">Enterprise at Kahului Airport (OGG)</a>
+* <a href="https://turo.com/us/en/car-rental/united-states/kahului-hi" target="_blank">Turo on Maui (person-to-person car rentals)</a>
+
+Note that there is limited street parking in Kula Kai neighborhood where the Ratte house is located.
 
 ### Day-of Shuttle
 Please check back later for more information on a day-of shuttle from Kihei/Wailea to the Ratte house and back.

@@ -39,6 +39,7 @@ Where the Ratte house is located. It’s more rural, has gorgeous views, and coo
 We recommend renting a car if you plan on exploring Maui beyond the immediate area of your accommodation.
 * <a href="https://www.enterprise.com/en/car-rental-locations/us/hi/kahului-airport-36e4.html" target="_blank">Enterprise at Kahului Airport (OGG)</a>
 * <a href="https://turo.com/us/en/car-rental/united-states/kahului-hi" target="_blank">Turo on Maui (person-to-person car rentals)</a>
+* Orbitz / Kayak / CostCo Travel may offer better rates than Turo and are more convenient from the airport.
 
 Note that there is limited street parking in Kula Kai neighborhood where the Ratte house is located.
 

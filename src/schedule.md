@@ -5,7 +5,7 @@ title: Schedule
 
 ## Friday, May 1st: Welcome drinks at Ocean Vodka Distillary!
 
-We will be at <a href="https://maps.app.goo.gl/K1m7pKSwk58oaMfc9" target="_blank"> Ocean Vodka Distillary</a> from 4:30-7:00pm on Friday if you'd like to swing by and join us for drinks, pupus, and incredible views!
+We will be at <a href="https://maps.app.goo.gl/K1m7pKSwk58oaMfc9" target="_blank"> Ocean Vodka Distillary</a> from 4:30-7:00pm on Friday if you'd like to swing by and join us for pupus and incredible views! Drinks will be available for purchase.
 
 Address: 4051 Omaopio Rd, Kula, HI 96790
 

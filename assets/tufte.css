@@ -745,16 +745,23 @@ section:not(.hero-banner) {
   }
 
   .topbar {
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-left: 0;
-    padding-right: 0;
+    height: auto;
+    padding: 0.25rem 4% 0;
+    margin-bottom: 0;
+    background-color: #fffff0;
+  }
+
+  header {
+    margin-bottom: -3rem;
+    padding-bottom: 0;
   }
 
   nav a,
   nav a:link,
   nav a:visited {
-    font-size: 1.2rem;
-    padding-right: 1.5rem;
+    font-size: 1.3rem;
+    padding-top: 0.2rem;
+    padding-right: 1.2rem;
   }
+
 }

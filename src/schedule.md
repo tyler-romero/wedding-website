@@ -33,4 +33,8 @@ Parking: Limited street parking in Kula Kai neighborhood- see Travel section for
 
 7:00-10:00pm: \~Dancing\~
 
-Afterparty: TBD
+10:00pm: Shuttle departs for Kihei / Wailea
+
+### Unofficial After Party
+
+10:45pm-close (midnight): <a href="https://maps.app.goo.gl/GGeTZg8yTuEeJW6F6" target="_blank">Barmuda Triangle</a> in Kihei! (<a href="https://mauihappyhours.net/tag/barmudatriangle/" target="_blank">info</a>)

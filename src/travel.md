@@ -41,10 +41,10 @@ We recommend renting a car if you plan on exploring Maui beyond the immediate ar
 * <a href="https://turo.com/us/en/car-rental/united-states/kahului-hi" target="_blank">Turo on Maui (person-to-person car rentals)</a>
 * Orbitz / Kayak / CostCo Travel may offer better rates than Turo and are more convenient from the airport.
 
-Note that there is limited street parking in Kula Kai neighborhood where the Ratte house is located.
+Note that there is limited street parking in Kula Kai neighborhood where the <a href="https://maps.app.goo.gl/NARpNC8xwAmzkdJL8" target="_blank">Ratte house</a> is located.
 
 ### Day-of Shuttle
-Please check back later for more information on a day-of shuttle from Kihei/Wailea to the Ratte house and back.
+Please check back later for more information on a day-of shuttle from Kihei/Wailea to the <a href="https://maps.app.goo.gl/NARpNC8xwAmzkdJL8" target="_blank">Ratte house</a> and back.
 
 <div style="display: flex; margin: 0 rem 0; width: 70%;">
     <img src="/assets/img/carry.jpg" alt="Carry" style="width: 90%; height: auto;" />

@@ -15,7 +15,7 @@ Parking: On-site
 
 ## Saturday, May 2nd: Wedding at the Ratte house!
 
-Address: 104 Mano Drive, Kula, HI 96790
+Address: <a href="https://maps.app.goo.gl/NARpNC8xwAmzkdJL8" target="_blank">104 Mano Drive, Kula, HI 96790</a>
 
 Dress code: Garden Party Formal
 

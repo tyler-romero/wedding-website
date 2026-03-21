@@ -17,7 +17,7 @@ Parking: On-site
 
 Address: <a href="https://maps.app.goo.gl/NARpNC8xwAmzkdJL8" target="_blank">104 Mano Drive, Kula, HI 96790</a>
 
-Dress code: Garden Party Formal
+Dress code: Garden Party Formal. It can be cool in the evening upcountry in Kula, so you may want to bring a light outer layer!
 
 Parking: Limited street parking in Kula Kai neighborhood- see Travel section for shuttle info!
 

@@ -7,7 +7,7 @@ title: Travel
 
 We don’t plan on booking a hotel block - feel free to book accommodations that suit your needs! The wedding will be upcountry in Kula, which is lovely but farther from the beach where most of you will likely want to stay, especially if you’re visiting the island for the first time!
 
-We will have [day-of shuttles](#day-of-shuttle) that will provide transportation from Kihei/Wailea (the south side of the island) to the wedding on 5/2 (more information to follow).
+We will have [day-of shuttles](#day-of-shuttle) that will provide transportation from Kihei/Wailea (the south side of the island) to the wedding on 5/2.
 
 Here are some hotel recommendations!
 
@@ -44,7 +44,16 @@ We recommend renting a car if you plan on exploring Maui beyond the immediate ar
 Note that there is limited street parking in Kula Kai neighborhood where the <a href="https://maps.app.goo.gl/NARpNC8xwAmzkdJL8" target="_blank">Ratte house</a> is located.
 
 ### Day-of Shuttle
-Please check back later for more information on a day-of shuttle from Kihei/Wailea to the <a href="https://maps.app.goo.gl/NARpNC8xwAmzkdJL8" target="_blank">Ratte house</a> and back.
+
+Shuttle pickup will be at the Hoku tower of the <a href="https://maps.app.goo.gl/VhX9tTSEfhJCoMet8" target="_blank">Maui Coast Hotel</a> at **2:45pm** on Saturday, May 2nd. The return shuttle will depart the <a href="https://maps.app.goo.gl/NARpNC8xwAmzkdJL8" target="_blank">Ratte house</a> at **10:00pm**.
+
+<div style="margin: 1rem 0; width: 50%; max-width: 100%;">
+    <img src="/assets/img/maui-coast-hotel-pickup.png" alt="Shuttle pickup at the Hoku tower, Maui Coast Hotel" style="width: 100%; height: auto;" />
+</div>
+
+There is a smaller secondary pickup location in Wailea—we’ll text you if you’re meant to be on that shuttle! :)
+
+See you there!
 
 <div style="display: flex; margin: 0 rem 0; width: 70%;">
     <img src="/assets/img/carry.jpg" alt="Carry" style="width: 90%; height: auto;" />

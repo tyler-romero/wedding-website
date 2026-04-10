@@ -51,8 +51,6 @@ Shuttle pickup will be at the Hoku tower of the <a href="https://maps.app.goo.gl
     <img src="/assets/img/maui-coast-hotel-pickup.png" alt="Shuttle pickup at the Hoku tower, Maui Coast Hotel" style="width: 100%; height: auto;" />
 </div>
 
-There is a smaller secondary pickup location in Wailea—we’ll text you if you’re meant to be on that shuttle! :)
-
 See you there!
 
 <div style="display: flex; margin: 0 rem 0; width: 70%;">

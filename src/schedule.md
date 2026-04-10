@@ -21,7 +21,7 @@ Dress code: Garden Party Formal. It can be cool in the evening upcountry in Kula
 
 Parking: Limited street parking in Kula Kai neighborhood—prefer the shuttle if you can!
 
-**Shuttle:** Pickup is at 2:45pm on 5/2 at the Hoku tower of the Maui Coast Hotel (<a href="https://maps.app.goo.gl/VhX9tTSEfhJCoMet8" target="_blank">map</a>). The return shuttle leaves the Ratte house at 10pm. There is also a smaller shuttle picking up in Wailea, we’ll text you if you're meant to be on that shuttle. Full details on the <a href="/travel/">Travel</a> page.
+**Shuttle:** Pickup is at 2:45pm on 5/2 at the Hoku tower of the Maui Coast Hotel (<a href="https://maps.app.goo.gl/VhX9tTSEfhJCoMet8" target="_blank">map</a>). The return shuttle leaves the Ratte house at 10pm. Full details on the <a href="/travel/">Travel</a> page.
 
 ### Schedule
 

@@ -49,7 +49,7 @@ There will be two pickups on Saturday, May 2nd:
 - **2:35pm** — Wailea Ekahi (we’ll text you if this is your pickup!)
 - **2:45pm** — Hoku tower of the <a href="https://maps.app.goo.gl/VhX9tTSEfhJCoMet8" target="_blank">Maui Coast Hotel</a>
 
-The return bus will depart the <a href="https://maps.app.goo.gl/NARpNC8xwAmzkdJL8" target="_blank">Ratte house</a> at **10:00pm**, with drops at Kihei Triangle, Maui Coast Hotel, and Wailea Ekahi.
+The return bus will depart the <a href="https://maps.app.goo.gl/NARpNC8xwAmzkdJL8" target="_blank">Ratte house</a> at **10:00pm**, with drops at Kihei Triangle (bars / unofficial after party), Maui Coast Hotel, and Wailea Ekahi.
 
 <div style="margin: 1rem 0; width: 50%; max-width: 100%;">
     <img src="/assets/img/maui-coast-hotel-pickup.png" alt="Shuttle pickup at the Hoku tower, Maui Coast Hotel" style="width: 100%; height: auto;" />

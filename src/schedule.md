@@ -25,7 +25,7 @@ Parking: Limited street parking in Kula Kai neighborhood—prefer the shuttle if
 - Wailea Ekahi at 2:35pm (we'll text you if this is your pickup!)
 - Hoku tower of the Maui Coast Hotel at 2:45pm (<a href="https://maps.app.goo.gl/VhX9tTSEfhJCoMet8" target="_blank">map</a>)
 
-The return bus leaves the Ratte house at 10pm, with drops at Kihei Triangle, Maui Coast Hotel, and Wailea Ekahi. Full details on the <a href="/travel/">Travel</a> page.
+The return bus leaves the Ratte house at 10pm, with drops at Kihei Triangle (bars / unofficial after party), Maui Coast Hotel, and Wailea Ekahi. Full details on the <a href="/travel/">Travel</a> page.
 
 ### Schedule
 
